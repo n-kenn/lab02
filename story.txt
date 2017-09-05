@@ -1,3 +1,4 @@
 Here we go.
 Adding a second line.
 Adding the third line.
+This line conflicts with the other branch.
